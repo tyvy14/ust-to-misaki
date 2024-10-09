@@ -17,4 +17,4 @@ This is a Python-based tool that converts UTAU `.ust` files into Sugar Cape `.mi
 ## How to Install
 1. Clone this repository or download the ZIP file.
    ```bash
-   git clone https://github.com/yourusername/ust-to-misaki.git
+   git clone https://github.com/tyvy14/ust-to-misaki.git
