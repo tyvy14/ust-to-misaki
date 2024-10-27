@@ -1,3 +1,3 @@
-Thank you for downloading my software
+Thank you for downloading the software
 
-Whether to use it with credit or tyvy (me)
+If you use the software, credit me tyvy
